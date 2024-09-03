@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StefanoCounter</string>
+    <string name="period_date">Data ostatniej miesiączki</string>
+    <string name="birth_date">Przewidywana data porodu</string>
+    <string name="profile_name">Nazwa profilu</string>
+</resources>
